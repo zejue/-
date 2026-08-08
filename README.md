@@ -51,3 +51,10 @@
 ***
 
 Made with ❤️ by 火星聚合团队
+
+
+
+
+## 🔗 相关项目
+
+- [闲鱼辅助系统 xianyu-rpa](https://github.com/zejue/xianyu-rpa) —— 闲鱼卖家 RPA 自动化运营助手
