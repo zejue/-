@@ -10,9 +10,7 @@
 
 ***
 
-🌐 **演示网站 (国内)**: [https://www.baidu94.com/logi](https://www.baidu94.com/logi)
-
-***
+🌐 **演示网站 (国内)**: https://www.baidu94.com/
 
 ## 📋 系统功能
 
