@@ -20,7 +20,8 @@
 
 管理用户百度账号，支持添加、删除、修改账号信息，查询各种状态
 
-![](README_md_files/a9de0500-92e2-11f1-a8ef-d17527196a01.jpeg?v=1&type=image)
+<img width="1546" height="1011" alt="45bb2150-92df-11f1-9ed7-3ba5aaac042f" src="https://github.com/user-attachments/assets/e790978b-a4d9-4875-b0c2-ba22ba39fbe8" />
+
 
 ### 💰 套餐管理
 
