@@ -1,1 +1,1 @@
-NONE
+   V1.0-20260809|Mars-Scan 引擎有新版本，点击查看更新日志|https://github.com/zejue/Mars-Scan-Code-Aggregation
